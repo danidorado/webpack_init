@@ -1,11 +1,11 @@
 
-# WEBPACK TUTORIAL
+# Webpack Starter
 
 Repositiorio con configuraciones basicas para hacer un deploy de un proyecto en javascript
 
 ### Notas
 
-- Comando Para reconstruir los modulos de node
+- Comando para reconstruir los modulos de node
 ```
 npm install
 ```
@@ -20,4 +20,9 @@ npm run build:dev
 
 ```
 npm run build
+```
+
+- Comando para levantar el servidor de desarrollo
+```
+npm start
 ```
